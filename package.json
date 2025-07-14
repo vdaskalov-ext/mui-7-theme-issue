@@ -10,12 +10,12 @@
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
-    "@mui/material": "^7.1.1",
+    "@mui/material": "7.2.0",
     "@mui/x-data-grid-premium": "^8.5.0",
     "@mui/x-data-grid-pro": "^8.5.0",
     "@mui/x-date-pickers-pro": "^8.5.0",
-    "@uniper/ues-react-style": "1.6.2",
-    "@uniper/ues-sales-portal-components": "0.15.2",
+    "@uniper/ues-react-style": "/Users/vdaskalov/repos/uniper/ues-react-style/dist/packages/ues-react-style",
+    "@uniper/ues-sales-portal-components": "/Users/vdaskalov/repos/uniper/ues-sales-portal/dist/libs/portal-components",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },

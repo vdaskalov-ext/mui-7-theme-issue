@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../style-provider"
+    },
+    {
       "path": "./tsconfig.app.json"
     }
   ],
